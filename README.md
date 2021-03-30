@@ -1,2 +1,2 @@
 # miun
-For Mitt Universitetet Machine Learning
+For Mittuniversitetet Machine Learning
